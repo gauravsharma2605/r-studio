@@ -1,0 +1,14 @@
+   schedtime       deptime        distance      flightnumber 
+ Min.   : 600   Min.   :  10   Min.   :169.0   Min.   : 746  
+ 1st Qu.:1000   1st Qu.:1004   1st Qu.:213.0   1st Qu.:2156  
+ Median :1455   Median :1450   Median :214.0   Median :2385  
+ Mean   :1372   Mean   :1369   Mean   :211.9   Mean   :3815  
+ 3rd Qu.:1710   3rd Qu.:1709   3rd Qu.:214.0   3rd Qu.:6155  
+ Max.   :2130   Max.   :2330   Max.   :229.0   Max.   :7924  
+    weather           dayweek         daymonth    
+ Min.   :0.00000   Min.   :1.000   Min.   : 1.00  
+ 1st Qu.:0.00000   1st Qu.:2.000   1st Qu.: 8.00  
+ Median :0.00000   Median :4.000   Median :16.00  
+ Mean   :0.01454   Mean   :3.905   Mean   :16.02  
+ 3rd Qu.:0.00000   3rd Qu.:5.000   3rd Qu.:23.00  
+ Max.   :1.00000   Max.   :7.000   Max.   :31.00  

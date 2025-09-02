@@ -1,0 +1,14 @@
+   schedtime       deptime        distance        daymonth    
+ Min.   : 600   Min.   :  10   Min.   :169.0   Min.   : 1.00  
+ 1st Qu.:1000   1st Qu.:1004   1st Qu.:213.0   1st Qu.: 8.00  
+ Median :1455   Median :1450   Median :214.0   Median :16.00  
+ Mean   :1372   Mean   :1369   Mean   :211.9   Mean   :16.02  
+ 3rd Qu.:1710   3rd Qu.:1709   3rd Qu.:214.0   3rd Qu.:23.00  
+ Max.   :2130   Max.   :2330   Max.   :229.0   Max.   :31.00  
+    dep_hour    
+ Min.   : 0.00  
+ 1st Qu.:10.00  
+ Median :14.00  
+ Mean   :13.32  
+ 3rd Qu.:17.00  
+ Max.   :23.00  

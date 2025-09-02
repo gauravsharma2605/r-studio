@@ -1,0 +1,14 @@
+Carrier frequencies:
+
+ CO  DH  DL  MQ  OH  RU  UA  US 
+ 94 551 388 295  30 408  31 404 
+
+Delay status frequencies:
+
+On time 
+   2201 
+
+Top 10 Destinations:
+
+ LGA  EWR  JFK <NA> <NA> <NA> <NA> <NA> <NA> <NA> 
+1150  665  386                                    

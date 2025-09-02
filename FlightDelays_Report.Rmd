@@ -1,0 +1,41 @@
+
+---
+title: "✈️ Flight Delays – Exploratory Data Analysis in R"
+author: "Gaurav Sharma"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+# Objective
+Analyze a flight delays dataset to understand how departure time, weather, carriers, and distance affect delays.
+
+# Tools Used
+- R  
+- ggplot2  
+- dplyr  
+- psych  
+
+# Process
+- Imported & cleaned dataset  
+- Checked missing values  
+- Summarized descriptive statistics  
+- Plotted histograms, bar plots, scatter plots, box plots, and pie chart  
+- Defined departure hours (0–23)  
+- Built categorical tables (delay vs weather, carrier, day of week)  
+- Redefined delay variables  
+
+# Key Insights
+- 🌅 Morning flights are more punctual than evening ones  
+- 🌦️ Bad weather strongly increases delays  
+- 🏢 Certain carriers show higher delay rates  
+- 📊 About XX% of flights were delayed overall  
+
+# Visuals
+![](task12_pie_delayed.png)  
+![](task6_box_daymonth_delay.png)  
+![](task5_scatter_ontime_vs_delayed.png)  
+![](task7_hist_departure_hours.png)  
+
+# Conclusion
+This project strengthened my skills in **data cleaning, descriptive statistics, visualization, and storytelling with R**.
+
